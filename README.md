@@ -1,0 +1,4 @@
+-  Hi, I’m @Loidkoko
+-  I’m interested in game development
+-  I love cats
+-  And that's it
